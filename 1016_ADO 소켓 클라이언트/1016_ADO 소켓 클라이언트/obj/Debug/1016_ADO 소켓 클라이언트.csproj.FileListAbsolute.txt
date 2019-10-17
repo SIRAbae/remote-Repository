@@ -1,0 +1,10 @@
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\bin\Debug\1016_ADO 소켓 클라이언트.exe.config
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\bin\Debug\1016_ADO 소켓 클라이언트.exe
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\bin\Debug\1016_ADO 소켓 클라이언트.pdb
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\obj\Debug\1016_ADO 소켓 클라이언트.csprojAssemblyReference.cache
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\obj\Debug\_1016_ADO_소켓_클라이언트.Form1.resources
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\obj\Debug\_1016_ADO_소켓_클라이언트.Properties.Resources.resources
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\obj\Debug\1016_ADO 소켓 클라이언트.csproj.GenerateResource.cache
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\obj\Debug\1016_ADO 소켓 클라이언트.exe
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\obj\Debug\1016_ADO 소켓 클라이언트.pdb
+D:\WinForm\1016_ADO 소켓 클라이언트\1016_ADO 소켓 클라이언트\obj\Debug\_1016_ADO_소켓_클라이언트.Form2.resources

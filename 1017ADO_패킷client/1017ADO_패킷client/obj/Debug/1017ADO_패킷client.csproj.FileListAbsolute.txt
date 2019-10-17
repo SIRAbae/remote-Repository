@@ -1,0 +1,11 @@
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.csprojAssemblyReference.cache
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\_1017ADO_패킷client.Form1.resources
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\_1017ADO_패킷client.Form2.resources
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\_1017ADO_패킷client.Properties.Resources.resources
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.csproj.GenerateResource.cache
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\bin\Debug\1017ADO_패킷client.exe.config
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\bin\Debug\1017ADO_패킷client.exe
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\bin\Debug\1017ADO_패킷client.pdb
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.exe
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.pdb
+D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\_1017ADO_패킷client.NewMember.resources
