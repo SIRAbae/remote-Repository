@@ -1,0 +1,93 @@
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\bin\Debug\1002_shop_program.exe.config
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\bin\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\bin\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\obj\Debug\1002_shop_program.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\obj\Debug\_1002_shop_program.Form1.resources
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\obj\Debug\_1002_shop_program.Properties.Resources.resources
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\obj\Debug\1002_shop_program.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\obj\Debug\1002_shop_program.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\obj\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\석궈니의 신나는 윈폼\1002_shop_program\1002_shop_program\obj\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\bin\Debug\1002_shop_program.exe.config
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\bin\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\bin\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\obj\Debug\1002_shop_program.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\obj\Debug\_1002_shop_program.Form1.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\obj\Debug\_1002_shop_program.Properties.Resources.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\obj\Debug\1002_shop_program.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\obj\Debug\1002_shop_program.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\obj\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\obj\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api\1002_shop_program\obj\Debug\_1002_shop_program.shopingItem.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\obj\Debug\1002_shop_program.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\obj\Debug\_1002_shop_program.Form1.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\obj\Debug\_1002_shop_program.Properties.Resources.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\obj\Debug\_1002_shop_program.shopingItem.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\obj\Debug\1002_shop_program.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\obj\Debug\1002_shop_program.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\obj\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\obj\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\bin\Debug\1002_shop_program.exe.config
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\bin\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\bin\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new\1002_shop_program\obj\Debug\_1002_shop_program.Loading.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\bin\Debug\1002_shop_program.exe.config
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\bin\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\bin\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\1002_shop_program.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\_1002_shop_program.Form1.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\_1002_shop_program.Form2.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\_1002_shop_program.Form3.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\_1002_shop_program.Loading.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\_1002_shop_program.Properties.Resources.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\_1002_shop_program.shopingItem.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\1002_shop_program.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\1002_shop_program.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\1002_shop_program.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_new\1002_shop_program\obj\Debug\_1002_shop_program.Setting.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\bin\Debug\1002_shop_program.exe.config
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\bin\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\bin\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\1002_shop_program.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\1002_shop_program.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\_1002_shop_program.Form1.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\_1002_shop_program.Form2.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\_1002_shop_program.Form3.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\_1002_shop_program.Loading.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\_1002_shop_program.Properties.Resources.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\_1002_shop_program.Setting.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\_1002_shop_program.shopingItem.resources
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\1002_shop_program.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\1002_shop_program.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1021_shop_program_api_new_metro\1002_shop_program\obj\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.Form1.resources
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.Loading.resources
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.Properties.Resources.resources
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.Setting.resources
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.shopingItem.resources
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\bin\Debug\1002_shop_program.exe.config
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\bin\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\비트고급석궈니\1023_shop_program_api_neeeww\1002_shop_program\bin\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\bin\Debug\1002_shop_program.exe.config
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\bin\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\bin\Debug\1002_shop_program.pdb
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.Form1.resources
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.Loading.resources
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.Properties.Resources.resources
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.Setting.resources
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\_1002_shop_program.shopingItem.resources
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.exe
+C:\Users\USER\Desktop\오픈 API 공모전\1023_shop_program_api_neeeww\1002_shop_program\obj\Debug\1002_shop_program.pdb
