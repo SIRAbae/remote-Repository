@@ -9,3 +9,14 @@ D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\bin\Debug\1017ADO_패킷cli
 D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.exe
 D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.pdb
 D:\WinForm\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\_1017ADO_패킷client.NewMember.resources
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\bin\Debug\1017ADO_패킷client.exe.config
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\bin\Debug\1017ADO_패킷client.exe
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\bin\Debug\1017ADO_패킷client.pdb
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.csprojAssemblyReference.cache
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\_1017ADO_패킷client.Form1.resources
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\_1017ADO_패킷client.Form2.resources
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\_1017ADO_패킷client.NewMember.resources
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\_1017ADO_패킷client.Properties.Resources.resources
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.csproj.GenerateResource.cache
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.exe
+D:\github\remote-Repository\1017ADO_패킷client\1017ADO_패킷client\obj\Debug\1017ADO_패킷client.pdb
